@@ -1,5 +1,5 @@
 # SeamsCarving
-Matlab Assignment 2 Computational Photography Fall 2017
+Matlab Computational Photography
 https://photography-assign.appspot.com/seamcarving.php
 
 Nine   matlab   files   are   used
